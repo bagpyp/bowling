@@ -1,5 +1,5 @@
 # Bowling Game kata 🎳  
-https://codingdojo.org/kata/bowling/  
+https://codingdojo.org/kata/Bowling/  
 
 ## to run 🏃‍♂️  
 ```
